@@ -1,6 +1,6 @@
 {
-  "name": "weather-npm",
-  "version": "1.0.0",
+  "name": "xmx-weather",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xmxshr/weather-npm.git"
+    "url": "git+https://github.com/xmxshr/xmx-weather.git"
   },
   "author": "xmx",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xmxshr/weather-npm/issues"
+    "url": "https://github.com/xmxshr/xmx-weather/issues"
   },
-  "homepage": "https://github.com/xmxshr/weather-npm#readme",
+  "homepage": "https://github.com/xmxshr/xmx-weather#readme",
   "dependencies": {
     "axios": "^0.16.2"
   }
